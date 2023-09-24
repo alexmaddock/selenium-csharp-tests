@@ -17,6 +17,7 @@ namespace Selenium {
         {
             driver = new ChromeDriver();
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5000);
+            // Add explicit timeout in here
             driver.Navigate().GoToUrl("https://youtube.com");
         }
 
