@@ -25,7 +25,6 @@ dotnet run ./someDir/someTestFile.cs
 
 [nunit-3-testing-net](https://alteridem.net/2016/06/18/nunit-3-testing-net-core-rc2/)
 
-<br>
 
 ## Configuration File Sample Set
 <br>
